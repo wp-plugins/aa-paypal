@@ -4,9 +4,9 @@
  * Plugin URI: http://wordpress.org/aaplayer
  * Description: AA Paypal is free paypal plugin
  * Version: 1.0
- * Developer + Idea: A. Roy / A. Mahmud
+ * Author: aaextension
  * Author URI: http://webdesigncr3ator.com
- * Support Email : contactus.aa@gmail.com
+ * Support Email : contact2us.aa@gmail.com
  * License: GPL2
  **/
 	
